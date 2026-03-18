@@ -97,4 +97,4 @@ Users can remove products from the database with a confirmation prompt.
 
 ## Author
 
-Developed as part of a **CRUD application project** demonstrating database operations and Laravel framework fundamentals.
+Developed as part of a **CRUD application project** demonstrating database operations and Laravel framework fundamentals..
