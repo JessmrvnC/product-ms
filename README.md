@@ -75,7 +75,7 @@ Users can remove products from the database with a confirmation prompt.
 ![Product List](images/list.png)
 
 ### Create Product
-![Create Product](images/create.png)
+![Create Product](images/add.png)
 
 ### Edit Product
 ![Edit Product](images/edit.png)
